@@ -24,3 +24,4 @@ git clone \ссылкаГитхаб\ \названиеПапки\
 
 git pull
 
+Testing user
